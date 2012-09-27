@@ -427,13 +427,13 @@
 			<key>name</key>
 			<string>CSS Property value</string>
 			<key>scope</key>
-			<string>support.constant.property-value.css, support.function.misc.css</string>
+			<string>support.constant.property-value.css, support.function.misc.css, source.sass, source.scss support.constant.property-value.sass </string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C29495</string>
+				<string>#FFA0A0</string>
 			</dict>
 		</dict>
 		<dict>
