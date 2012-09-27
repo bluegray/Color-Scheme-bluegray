@@ -414,7 +414,7 @@
 			<key>name</key>
 			<string>CSS color</string>
 			<key>scope</key>
-			<string>constant.other.color.rgb-value.css, constant.other.color.rgb-value.css punctuation.definition.constant.css</string>
+			<string>constant.other.color.rgb-value.css, constant.other.color.rgb-value.css punctuation.definition.constant.css, source.sass, source.scss constant.other.rgb-value.sass </string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
