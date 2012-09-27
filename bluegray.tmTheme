@@ -16,7 +16,7 @@
 				<key>caret</key>
 				<string>#D6D6D6</string>
 				<key>foreground</key>
-				<string>#DEDEDE</string>
+				<string>#ffffff</string>
 				<key>invisibles</key>
 				<string>#A5A5A552</string>
 				<key>lineHighlight</key>
@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D68686</string>
+				<string>#fa8072</string>
 			</dict>
 		</dict>
 		<dict>
@@ -297,6 +297,43 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Type name</string>
+			<key>scope</key>
+			<string>source.css meta.property-list.css meta.property-value.css constant.numeric.css keyword.other.unit.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cd853f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class type name</string>
+			<key>scope</key>
+			<string>source.css meta.property-list.css meta.property-value.css constant.numeric.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#fa8072</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class type name</string>
+			<key>scope</key>
+			<string>source.css meta.selector.css entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ffdead</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Class type name</string>
 			<key>scope</key>
 			<string>entity.name.type,entity.other.attribute-name.class.css</string>
@@ -357,7 +394,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#96AB69</string>
+				<string>#6495ed</string>
 			</dict>
 		</dict>
 		<dict>
@@ -778,7 +815,7 @@
 	            <key>foreground</key>
 	            <string>#AB9377</string>
 	        </dict>
-	    </dict>
+	  </dict>
 		<dict>
 	        <key>name</key>
 	        <string>Javascript class</string>
