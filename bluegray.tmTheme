@@ -323,20 +323,20 @@
 			<key>name</key>
 			<string>Class type name</string>
 			<key>scope</key>
-			<string>source.css meta.selector.css entity.other.attribute-name.class.css</string>
+			<string>source.css meta.selector.css entity.other.attribute-name.class.css, source.sass, source.scss entity.other.attribute-name.id.sass </string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffdead</string>
+				<string>#FA8072</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Class type name</string>
 			<key>scope</key>
-			<string>entity.name.type,entity.other.attribute-name.class.css</string>
+			<string>entity.name.type</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -356,6 +356,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#B8A15C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SCSS keyword name</string>
+			<key>scope</key>
+			<string>source.sass, source.scss keyword.control.untitled </string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#6495ED</string>
 			</dict>
 		</dict>
 		<dict>
