@@ -308,6 +308,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>SCSS unit</string>
+			<key>scope</key>
+			<string>source.sass, source.scss constant.other.unit.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFD700</string>
+			</dict>
+		</dict>
+		 
+		<dict>
+			<key>name</key>
 			<string>Class type name</string>
 			<key>scope</key>
 			<string>source.css meta.property-list.css meta.property-value.css constant.numeric.css</string>
