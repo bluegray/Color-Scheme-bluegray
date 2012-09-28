@@ -159,7 +159,7 @@
 				<key>caret</key>
 				<string>#D6D6D6</string>
 				<key>foreground</key>
-				<string>#ffffff</string>
+				<string>#FFFFE6</string>
 				<key>invisibles</key>
 				<string>#A5A5A552</string>
 				<key>lineHighlight</key>
@@ -261,7 +261,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fa8072</string>
+				<string>#87CEEB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -451,6 +451,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>SCSS default</string>
+			<key>scope</key>
+			<string>source.sass, source.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00FF7F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>SCSS unit</string>
 			<key>scope</key>
 			<string>source.sass, source.scss constant.other.unit.sass</string>
@@ -460,7 +471,6 @@
 				<string>#FFD700</string>
 			</dict>
 		</dict>
-		 
 		<dict>
 			<key>name</key>
 			<string>Class type name</string>
@@ -588,7 +598,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFA0A0</string>
+				<string>#FFFFEE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1010,7 +1020,7 @@
 	        <key>name</key>
 	        <string>SASS variable</string>
 	        <key>scope</key>
-	        <string>variable.scss, source.scss variable</string>
+	        <string>variable.scss, source.scss variable, source.sass, source.scss variable.parameter.sass </string>
 	        <key>settings</key>
 	        <dict>
 	            <key>foreground</key>
