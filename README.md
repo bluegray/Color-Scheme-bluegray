@@ -1,4 +1,4 @@
-#Sublime Text 2 Color Themes
+#Sublime Text 2 Color Schemes
 
 ##bluegray
 Based on this [zenburn Textmate Theme](https://github.com/colinta/zenburn) with
