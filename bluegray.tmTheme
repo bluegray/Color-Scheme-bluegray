@@ -1165,6 +1165,28 @@
 					<string>#4169E1</string>
 				</dict>
 			</dict>
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.expression.map.clojure constant.string.symbole.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.expression.map.clojure constant.string.symbole.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FFA0A0</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.expression.map.clojure constant.string.symbole.clojure keyword.operator.symbole.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.expression.map.clojure constant.string.symbole.clojure keyword.operator.symbole.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#F96D6D</string>
+				</dict>
+			</dict>
 		</array>
 		<key>uuid</key>
 		<string>a0ed0cd2-c4e6-495d-9cbf-6ca660b92f22</string>
