@@ -462,7 +462,7 @@
 				<key>name</key>
 				<string>CSS Pseudo element</string>
 				<key>scope</key>
-				<string>entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css,  entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css, entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css</string>
+				<string>entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css, entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
@@ -601,7 +601,9 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#78CECC80</string>
+					<string>#98d9d9</string>
+					<key>fontStyle</key>
+					<string> bold</string>
 				</dict>
 			</dict>
 			<dict>
@@ -888,7 +890,7 @@
 				<key>name</key>
 				<string>SASS parent ref</string>
 				<key>scope</key>
-				<string>source.scss  entity.name.tag.reference.css</string>
+				<string>source.scss entity.name.tag.reference.css</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
