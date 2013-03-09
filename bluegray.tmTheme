@@ -1235,6 +1235,369 @@
 					<string>#967EFB</string>
 				</dict>
 			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure meta.expression.vector.clojure meta.expression.vector.clojure punctuation.definition.vector </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure meta.expression.vector.clojure meta.expression.vector.clojure punctuation.definition.vector </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0f0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure meta.expression.vector.clojure punctuation.definition.vector </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure meta.expression.vector.clojure punctuation.definition.vector </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ff0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#08f</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f00</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure entity.name.function.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure entity.name.function.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#D53D5A</string>
+				</dict>
+			</dict>
+
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f00</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FED6AF</string>
+				</dict>
+			</dict>
+
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure keyword.operator.qualified.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure keyword.operator.qualified.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FFC170</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure meta.sexpr.clojure keyword.operator.qualified.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure meta.sexpr.clojure keyword.operator.qualified.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FFC170</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0f0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0f0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ff0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ff0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ff0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0ff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0ff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0ff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.catch_form.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f0f</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f0f</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f0f</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.function.lambda.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#00f</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#00f</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure string.regexp.clojure punctuation.definition.string.begin.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure string.regexp.clojure punctuation.definition.string.begin.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#7e7e7e</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.function.let_form.clojure meta.structure.bindings.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.structure.binding.symbole.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure string.regexp.clojure punctuation.definition.string.begin.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure string.regexp.clojure punctuation.definition.string.begin.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#7e7e7e</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure string.regexp.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.structure.binding_exp.sexp.clojure meta.sexpr.clojure string.regexp.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#C76F41</string>
+				</dict>
+			</dict>
+
 		</array>
 		<key>uuid</key>
 		<string>a0ed0cd2-c4e6-495d-9cbf-6ca660b92f22</string>
