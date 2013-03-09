@@ -929,7 +929,20 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#fee3</string>
+					<string>#ffaaaa22</string>
+					<key>foreground</key>
+					<string>#f55</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>bracket Highlight Tag</string>
+				<key>scope</key>
+				<string>bracketHighlightTag</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key>
+					<string>#ffaaaa88</string>
 					<key>foreground</key>
 					<string>#f55</string>
 				</dict>
