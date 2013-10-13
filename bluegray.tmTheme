@@ -826,7 +826,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#FFFFFF5E</string>
+					<string>#FFD653</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1595,6 +1595,285 @@
 				<dict>
 					<key>foreground</key>
 					<string>#C76F41</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.namespace.clojure support.other.keyword.namespace.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.namespace.clojure support.other.keyword.namespace.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ffa0a0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.namespace.clojure entity.name.namespace.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.namespace.clojure entity.name.namespace.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.namespace.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.namespace.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.namespace.clojure constant.string.symbole.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.namespace.clojure constant.string.symbole.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ffa0a0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure constant.string.symbole.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure constant.string.symbole.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ffa0a0</string>
+				</dict>
+			</dict>
+
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure constant.string.symbole.clojure keyword.operator.symbole.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure constant.string.symbole.clojure keyword.operator.symbole.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#ffa0a0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.namespace.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.namespace.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f00</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f00</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.sexpr.clojure meta.function.def_form.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.sexpr.clojure meta.function.def_form.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure entity.name.function.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure entity.name.function.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#7ccd7c</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure string.docstring.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure string.docstring.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#cd5555</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure string.docstring.clojure string.quoted.double.begin.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure string.docstring.clojure string.quoted.double.begin.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#cd5555</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#f00</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure entity.name.function.clojure source.symbol.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure entity.name.function.clojure source.symbol.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string>bold</string>
+					<key>foreground</key>
+					<string>#7ccd7c</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.begin.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.begin.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.end.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.end.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure storage.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#fff</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#e06060</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.begin.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.begin.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.end.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.clojure meta.function.body.clojure meta.function.parameters.vector.clojure punctuation.definition.vector.end.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#6060e0</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>scope</key>
+				<string>source.clojure meta.function.macro.clojure meta.function.body.clojure meta.function.body.code.clojure meta.sexpr.clojure meta.sexpr.clojure meta.sexpr.clojure </string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#60f060</string>
 				</dict>
 			</dict>
 
